@@ -15,9 +15,9 @@ Working Papers
 **Jingren Liu**, Hanzhang Qin, Junyi Liu, Mabel Chou, Jong-Shi Pang
 Under review at *Operations Research*
 
-* [Pricing Analytics with Shape-Restricted Demands](https://ssrn.com/abstract=4643942)
-**Jingren Liu**, Hanzhang Qin, Mabel Chou
+* [Pricing Analytics with Shape-Restricted Demands](https://ssrn.com/abstract=4643942)  
+**Jingren Liu**, Hanzhang Qin, Mabel Chou  
 
-* End-to-End Transfer Optimization with Application to Portfolio Optimization
-Lin William Cong, Guangyan Gan, **Jingren Liu**, Hanzhang Qin (alphabetical order)
+* End-to-End Transfer Optimization with Application to Portfolio Optimization  
+Lin William Cong, Guangyan Gan, **Jingren Liu**, Hanzhang Qin (alphabetical order)  
 Work in progress
