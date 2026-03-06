@@ -11,8 +11,8 @@ I am Jingren Liu, currently a Research Fellow at the [NUS (Chongqing) Research I
 
 Working Papers
 ======
-* [Offline Policy Learning with Weight Clipping and Heaviside Composite Optimization](https://arxiv.org/abs/2601.12117)
-**Jingren Liu**, Hanzhang Qin, Junyi Liu, Mabel Chou, Jong-Shi Pang
+* [Offline Policy Learning with Weight Clipping and Heaviside Composite Optimization](https://arxiv.org/abs/2601.12117)  
+**Jingren Liu**, Hanzhang Qin, Junyi Liu, Mabel Chou, Jong-Shi Pang  
 Under review at *Operations Research*
 
 * [Pricing Analytics with Shape-Restricted Demands](https://ssrn.com/abstract=4643942)  
