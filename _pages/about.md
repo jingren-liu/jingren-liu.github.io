@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Jingren Liu, currently a Research Fellow at the [NUS (Chongqing) Research Institute](http://en.nusricq.cn/). I obtained my Ph.D. from the Institute of Operations Research and Analytics (IORA) at the National University of Singapore (NUS), where I was fortunate to be advised by Professors [Mabel Chou](https://discovery.nus.edu.sg/906-chengfeng-chou/about) and [Hanzhang Qin](https://hanzhangqin.com/).
+I am Jingren Liu, currently a Research Fellow at the [NUS (Chongqing) Research Institute](http://en.nusricq.cn/). I obtained my Ph.D. from the Institute of Operations Research and Analytics (IORA) at the National University of Singapore (NUS), where I was fortunate to be advised by Professors [Mabel Chou](https://discovery.nus.edu.sg/906-chengfeng-chou/about) and [Hanzhang Qin](https://hanzhangqin.com/).  
+
+My research focuses on leveraging causal inference, machine learning, and optimization to improve decision-making in operations. Specifically, I develop data-driven methodologies to estimate counterfactuals, model complex operational environments, design rigorous experiments, and ultimately inform high-quality decisions. My work has applications in e-commerce, pricing, finance, and supply chain management.
 
 Working Papers
 ======
@@ -16,10 +18,10 @@ Working Papers
 Under review at *Operations Research*
 
 * [Pricing Analytics with Shape-Restricted Demands](https://ssrn.com/abstract=4643942)  
-**Jingren Liu**, Hanzhang Qin, Mabel Chou  
+**Jingren Liu**, Hanzhang Qin, Mabel Chou    
 
 * End-to-End Transfer Optimization with Application to Portfolio Optimization  
-Lin William Cong, Guangyan Gan, **Jingren Liu**<sup>*</sup>, Hanzhang Qin 
+Lin William Cong, Guangyan Gan, **Jingren Liu**<sup>*</sup>, Hanzhang Qin     
 Work in progress
 
 
