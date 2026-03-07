@@ -24,5 +24,7 @@ Under review at *Operations Research*
 Lin William Cong, Guangyan Gan, **Jingren Liu**<sup>*</sup>, Hanzhang Qin     
 Work in progress
 
+* Density Estimation via Bernstein Polynomials with Shape Constraints:  An Application to Willing-to-Pay Estimation   
+**Jingren Liu**<sup>*</sup>, Hanzhang Qin
 
 Note: <sup>*</sup> stands for alphabetical order.
