@@ -26,7 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Jingren Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Research Fellow at National University of Singapore\nPh.D. in Operations Research and Analytics"  
+  bio              : "Research Fellow at National University of Singapore"
+  bio              : "Ph.D. in Operations Research and Analytics"
   location         : "Singapore"
   # employer         : "NUS"
   uri              : # URL
