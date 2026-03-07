@@ -14,17 +14,18 @@ My research focuses on leveraging causal inference, machine learning, and optimi
 Working Papers
 ======
 * [Offline Policy Learning with Weight Clipping and Heaviside Composite Optimization](https://arxiv.org/abs/2601.12117)  
-**Jingren Liu**, Hanzhang Qin, Junyi Liu, Mabel Chou, Jong-Shi Pang    
+with Hanzhang Qin, Junyi Liu, Mabel Chou, Jong-Shi Pang    
 Under review at *Operations Research*
 
 * [Pricing Analytics with Shape-Restricted Demands](https://ssrn.com/abstract=4643942)  
-**Jingren Liu**, Hanzhang Qin, Mabel Chou    
+with Hanzhang Qin, Mabel Chou    
 
 * End-to-End Transfer Optimization with Application to Portfolio Optimization  
-Lin William Cong, Guangyan Gan, **Jingren Liu**<sup>*</sup>, Hanzhang Qin     
+with Lin William Cong, Guangyan Gan, Hanzhang Qin     
 Work in progress
 
 * Density Estimation via Bernstein Polynomials with Shape Constraints:  An Application to Willing-to-Pay Estimation   
-**Jingren Liu**<sup>*</sup>, Hanzhang Qin
+with Hanzhang Qin    
+Work in progress
 
-Note: <sup>*</sup> stands for alphabetical order.
+
